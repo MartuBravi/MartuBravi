@@ -1,23 +1,42 @@
-Hola 👋
+# Hola, soy Martu
+<a href="https://www.linkedin.com/in/martina-bravi-4b519118b/" ><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Soy Martina, aspirante a Analista de Ciberseguridad en Argentina.
-Actualmente estoy desarrollando mis habilidades a través de laboratorios prácticos y estudios de casos enfocados en seguridad informática.
-Me interesa especialmente la respuesta a incidentes, el análisis de logs y la seguridad defensiva (Blue Team).
-Trabajo con Linux, Python, SQL, herramientas SIEM y marcos de referencia como NIST CSF.
-Me motiva comprender cómo funcionan los ataques y cómo fortalecer los sistemas para prevenirlos.
+Soy estudiante de informática con interés en ciberseguridad y en el área de seguridad defensiva.
+A través de laboratorios prácticos he trabajado en respuesta a incidentes, análisis básico, evaluación de vulnerabilidades y fundamentos de scripting.
 
-En qué estoy trabajando
-- Análisis de incidentes utilizando el marco NIST
-- Automatización y análisis de logs con Python
-- Gestión de permisos y hardening básico en Linux
-- Consultas SQL aplicadas a investigaciones de seguridad
+Me interesa desarrollarme en un entorno donde pueda analizar eventos de seguridad, trabajar con herramientas tipo SIEM y detectar actividad sospechosa.
 
-Actualmente aprendiendo
-- Técnicas de detección de amenazas
-- Monitoreo y análisis de tráfico de red
-- Mejores prácticas en respuesta a incidentes
+## Objetivo
+Obtener una posición inicial en ciberseguridad donde pueda adquirir experiencia práctica en monitoreo de seguridad, detección de amenazas y respuesta a incidentes dentro de un equipo estructurado.
 
-Sobre mí
-- Formación previa en el área administrativa y comercial
-- En proceso de transición profesional hacia ciberseguridad
-- Comprometida con el aprendizaje continuo
+## Habilidades
+
+| Habilidad                                     | Asociado a Laboratorios    |
+|-----------------------------------------------|----------------------------|
+| Respuesta a incidentes utilizando el marco NIST           | <a href="https://google.com">Detection Lab</a>|
+| Gestión de permisos en Linux                              | <a href="https://google.com">Detection Lab</a>|
+| Aplicación de filtros y consultas SQL para análisis       | SOC Automation Lab|
+| Elaboración de informe de evaluación de vulnerabilidades  | SOC Automation Lab|
+| Documentación de incidentes y registro de eventos         | SOC Automation Lab|
+| Scripting básico en Python                                | SOC Automation Lab|
+
+
+## Herramientas
+### Sistemas Operativos
+Linux (uso de la línea de comandos y gestión de archivos)
+
+### Scripting
+Python (fundamentos y lógica básica)
+
+### Bases de Datos
+SQL (consultas y aplicación de filtros)
+
+### Marcos y Conceptos
+NIST Cybersecurity Framework
+
+Fundamentos del ciclo de respuesta a incidentes
+
+Conceptos básicos de evaluación de vulnerabilidades
+
+## Certifications
+Google Cybersecurity Professional Certificate
