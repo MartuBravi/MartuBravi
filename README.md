@@ -4,7 +4,7 @@
 Soy estudiante de informática con interés en ciberseguridad y en el área de seguridad defensiva.
 A través de laboratorios prácticos he trabajado en respuesta a incidentes, análisis básico, evaluación de vulnerabilidades y fundamentos de scripting.
 
-Me interesa desarrollarme en un entorno donde pueda analizar eventos de seguridad, trabajar con herramientas tipo SIEM y detectar actividad sospechosa.
+Me interesa desarrollarme en un entorno donde pueda analizar eventos de seguridad, trabajar con herramientas SIEM y detectar actividad sospechosa.
 
 ## Objetivo
 Obtener una posición inicial en ciberseguridad donde pueda adquirir experiencia práctica en monitoreo de seguridad, detección de amenazas y respuesta a incidentes dentro de un equipo estructurado.
