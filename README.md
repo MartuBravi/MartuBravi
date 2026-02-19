@@ -13,12 +13,12 @@ Obtener una posición inicial en ciberseguridad donde pueda adquirir experiencia
 
 | Habilidad                                     | Asociado a Laboratorios    |
 |-----------------------------------------------|----------------------------|
-| Respuesta a incidentes utilizando el marco NIST           | <a >Detection Lab</a>|
-| Gestión de permisos en Linux                              | <a >Detection Lab</a>|
-| Aplicación de filtros y consultas SQL para análisis       | <a >Detection Lab</a>|
+| Respuesta a incidentes utilizando el marco NIST           | <a href="">Detection Lab</a>|
+| Gestión de permisos en Linux                              | <a href="">Detection Lab</a>|
+| Aplicación de filtros y consultas SQL para análisis       | <a href="">Detection Lab</a>|
 | Elaboración de informe de evaluación de vulnerabilidades  | <a href="https://github.com/MartuBravi/vulnerability-assessment-report">Detection Lab</a>|
-| Documentación de incidentes y registro de eventos         | <a >Detection Lab</a>|
-| Scripting básico en Python                                | <a >Detection Lab</a>|  
+| Documentación de incidentes y registro de eventos         | <a href="">Detection Lab</a>|
+| Scripting básico en Python                                | <a href="">Detection Lab</a>|  
 
 
 ## Herramientas
