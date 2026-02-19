@@ -14,9 +14,9 @@ Obtener una posición inicial en ciberseguridad donde pueda adquirir experiencia
 | Habilidad                                     | Asociado a Laboratorios    |
 |-----------------------------------------------|----------------------------|
 | Respuesta a incidentes utilizando el marco NIST           | <a href="https://google.com">Detection Lab</a>|
-| Gestión de permisos en Linux                              | <a href="https://google.com">Detection Lab</a>|
+| Gestión de permisos en Linux                              | 
 | Aplicación de filtros y consultas SQL para análisis       | SOC Automation Lab|
-| Elaboración de informe de evaluación de vulnerabilidades  | SOC Automation Lab|
+| Elaboración de informe de evaluación de vulnerabilidades  | <a href="https://github.com/MartuBravi/vulnerability-assessment-report">Detection Lab</a>|
 | Documentación de incidentes y registro de eventos         | SOC Automation Lab|
 | Scripting básico en Python                                | SOC Automation Lab|
 
