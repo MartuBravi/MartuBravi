@@ -18,7 +18,7 @@ Obtener una posición inicial en ciberseguridad donde pueda adquirir experiencia
 | Aplicación de filtros y consultas SQL para análisis       | <a href="">Detection Lab</a>|
 | Elaboración de informe de evaluación de vulnerabilidades  | <a href="https://github.com/MartuBravi/vulnerability-assessment-report">Detection Lab</a>|
 | Documentación de incidentes y registro de eventos         | <a href="">Detection Lab</a>|
-| Scripting básico en Python                                | <a href="">Detection Lab</a>|  
+| Scripting básico en Python                                | <a href="https://github.com/MartuBravi/python-security-script">Detection Lab</a>|  
 
 
 ## Herramientas
